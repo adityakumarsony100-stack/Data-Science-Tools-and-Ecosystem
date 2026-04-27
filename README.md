@@ -42,7 +42,7 @@ The application predicts:
 - Deploy online
 - Add medical report download option
 
-- To run app you can copy the heartapp.py file and in terminal write streamlit run heartapp.py
+# To run app you can copy the heartapp.py file and in terminal write streamlit run heartapp.py
 
 ## Author
 
